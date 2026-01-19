@@ -126,10 +126,10 @@
   url: https://guhub.cn
   img: guhub.cn.jpeg
   text: "不尊重文字的独立博主。"
-"小太の游乐园":
-  url: https://baka.fun
-  img: baka.fun.png
-  text: "一个热爱ACG的技术宅"
+"Souta":
+  url: https://souta.cc
+  img: souta.cc.jpg
+  text: "可能是一个笨蛋"
 "时光":
   url: https://outti.me
   img: imrbq.cn.png
@@ -179,9 +179,9 @@
   img: blog.cyfan.top.jpg
   text: "挣扎于互联网角落，无法自拔"
 "御坂研究所":
-    url: https://www.nosuchfield.com/
-    img: www.nosuchfield.com.png
-    text: "Where there's a shell, there's a way"
+  url: https://www.nosuchfield.com/
+  img: www.nosuchfield.com.png
+  text: "Where there's a shell, there's a way"
 "FlyingSky's Blog":
   url: https://blog.fsky7.com/
   img: fsky7.com.jpg
@@ -214,14 +214,14 @@
   url: https://cyris.moe
   img: cyris.moe.png
   text: "CSS 超可爱啦"
-"Thinking Null": 
+"Thinking Null":
   url: https://awsl.blog
   img: awsl.blog.png
-  text: "又一个萌新" 
-"绿色毛怪":
-  url: https://blog.sku.moe
-  img: blog.sku.moe.jpg
-  text: "澡后挖耳朵 湿湿一大坨"
+  text: "又一个萌新"
+"AprilNEA":
+  url: https://aprilnea.me
+  img: aprilnea.me.jpg
+  text: "Only the paranoid survive."
 "吐槽大王部落格":
   url: https://tcdw.net
   img: tcdw.net.png
@@ -262,6 +262,14 @@
   url: https://hiyase.github.io/
   img: hiyase.github.io.jpg
   text: "愿每个人都被温柔以待"
+"Sunset Mikoto":
+  url: https://blog.sunmkt.uk/
+  img: blog.sunmkt.uk.png
+  text: "Sunset 的重构博客"
+"Restent Ou":
+  url: https://www.gxres.net/
+  img: www.gxres.net.jpg
+  text: "Secret with Silent."
 "小可の聚集地":
   url: https://keke.su
   img: keke.su.png
